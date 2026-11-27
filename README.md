@@ -86,16 +86,23 @@ Which operations an agent can call, which act, and which need a human in the loo
 
 - [DisclosureGuard (Ingenious AI) Agentic Access](https://apis.io/agentic-access/disclosureguard-getingeniousai-com/disclosureguard-getingeniousai-com-agentic-access/)
 
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [DisclosureGuard (Ingenious AI) Openapi Overlay](https://apis.io/overlays/disclosureguard-getingeniousai-com/disclosureguard-getingeniousai-com-openapi-overlay/)
+
 #### Governance rules (1)
 
 Spectral rulesets for the provider's contracts.
 
 - [DisclosureGuard (Ingenious AI) API Rules](https://apis.io/rules/disclosureguard-getingeniousai-com/disclosureguard-getingeniousai-com-rules/)
 
-#### Security (2)
+#### Security (3)
 
 Authentication, trust centre, and vulnerability disclosure.
 
+- [DisclosureGuard (Ingenious AI) Authentication](https://apis.io/security/disclosureguard-getingeniousai-com/disclosureguard-getingeniousai-com-authentication/)
 - [DisclosureGuard (Ingenious AI) Domain Security](https://apis.io/security/disclosureguard-getingeniousai-com/disclosureguard-getingeniousai-com-domain-security/)
 - [DisclosureGuard (Ingenious AI) Vulnerability Disclosure](https://apis.io/security/disclosureguard-getingeniousai-com/disclosureguard-getingeniousai-com-vulnerability-disclosure/)
 
@@ -111,6 +118,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://disclosureguard.getingeniousai.com)
 - [Documentation](https://disclosureguard.getingeniousai.com/openapi.json)
+- [Getting started](https://disclosureguard.getingeniousai.com/guides)
 - [Pricing](https://disclosureguard.getingeniousai.com/pricing)
 - [Support](https://disclosureguard.getingeniousai.com/contact)
 - [Changelog](https://disclosureguard.getingeniousai.com/changelog)
@@ -122,18 +130,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 39.1** — thin · rubric 0.27.0 · scored 2026-11-17
+**Kin Score 44.3** — developing · rubric 0.28.0 · scored 2026-11-27
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 76.8 |
 | Contract quality | 0.0 |
 | Contract governance | 65.5 |
-| Operational transparency | 42.1 |
-| Developer ergonomics | 16.7 |
-| Access clarity | 73.2 |
+| Operational transparency | 38.1 |
+| Developer ergonomics | 50.0 |
+| Access clarity | 59.1 |
 
-**Agent readiness 10.3** — agent-aware
+**Agent readiness 12.8** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -141,7 +149,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Access | unknown |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
-| Auth Clarity | — |
+| Auth Clarity | bearer (partial credit) |
 | Idempotency | — |
 | Error Semantics | derived (partial credit) |
 | OpenAPI Examples | — |
@@ -160,7 +168,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/disclosureguard-getingeniousai-com/](https://apis.io/providers/disclosureguard-getingeniousai-com/).
 
